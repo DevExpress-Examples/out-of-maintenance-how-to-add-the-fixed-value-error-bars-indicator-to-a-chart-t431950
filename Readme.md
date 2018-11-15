@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/FixedValueErrorBars/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/FixedValueErrorBars/MainWindow.xaml))
+<!-- default file list end -->
 # How to: Add the Fixed Value Error Bars indicator to a chart
 
 
